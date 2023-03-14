@@ -4,6 +4,8 @@
         "array": "cpp",
         "string": "cpp",
         "string_view": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp"
     }
 }
